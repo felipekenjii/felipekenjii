@@ -1,4 +1,4 @@
-## Olá, eu me chamo Felipe Kenji!
+## Olá, eu me chamo Felipe Yoshike!
 
 Comecei a estudar programação no ínicio de 2025 e tenho interesse em ingressar na área!
 - 🎓 Formação (Atualmente curso Análise e Desenvolvimento de Sistemas na Fatec, estou no 1º semestre. Futuramente, prentendo realizar uma segunda graduação para expandir ainda mais meus conhecimentos na área de tecnologia.)
