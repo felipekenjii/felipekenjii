@@ -11,7 +11,7 @@ Atualmente estou focado em aprender o essencial para me tornar um **desenvolvedo
 
 ## 🎓 Formação Acadêmica
 
-- **Análise e Desenvolvimento de Sistemas** – Fatec (1º semestre)  
+- **Análise e Desenvolvimento de Sistemas** – Fatec (2º semestre)  
 
 ---
 
