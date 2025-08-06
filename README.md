@@ -5,7 +5,7 @@
 ## 📚 Sobre Mim
 
 Olá! Me chamo **Felipe Yoshike**, iniciei meus estudos em programação no início de **2025** com o objetivo de ingressar na área de **tecnologia**.  
-Atualmente estou focado em aprender o essencial para me tornar um **desenvolvedor web**, com o objetivo de evoluir para o desenvolvimento **Full-Stack**.
+Atualmente estou focado em aprender o essencial para me tornar um **desenvolvedor back-end**, com o objetivo de evoluir para o desenvolvimento **Full-Stack**.
 
 ---
 
@@ -30,6 +30,8 @@ Atualmente estou focado em aprender o essencial para me tornar um **desenvolvedo
   <img align="center" alt="Felipe-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Felipe-.NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="Felipe-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felipe-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
