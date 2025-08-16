@@ -17,10 +17,8 @@ Atualmente estou focado em aprender o essencial para me tornar um **desenvolvedo
 
 ## 📌 O que estou estudando atualmente?
 
-- **HTML, CSS, JavaScript** para desenvolvimento web
-- **Python** para lógica de programação
-- **C#, .NET** para backend
-- **Inglês** pela CCAA
+- **Python** 
+- **C#, .NET** 
 
 ---
 
