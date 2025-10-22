@@ -6,9 +6,6 @@
 
 <h1 align="center">👋 Hi, i'm Felipe Yoshike!</h1>
 
-<br>
-
-
 <h2 align="left">💻 Sobre mim</h2>
 
 <p align="left">
@@ -16,7 +13,6 @@
   Atualmente estou focado em aprender o essencial para me tornar um <strong>desenvolvedor back-end</strong>.
 </p>
 
-<br>
 
 <h2 align="left">🎓 Formação Acadêmica</h2>
 
@@ -24,7 +20,6 @@
   - <strong>Análise e Desenvolvimento de Sistemas</strong> (2025 - 2027)
 </p>
 
-<br>
 
 <h2 align="left">📚 O que estou estudando</h2>
 
@@ -33,7 +28,6 @@
   - <strong>C# e .NET</strong>
 </p>
 
-<br>
 
 <h2 align="left">🛠️ Tecnologias & Ferramentas</h2>
 
@@ -55,7 +49,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
 </div>
 
-<br>
 
 <h2 align="left">🌐 Conecte-se comigo</h2>
 
@@ -71,8 +64,6 @@
   </a>
 </div>
 
-
-<br>
 
 <h2 align="left">📊 GitHub Stats</h2>
 
