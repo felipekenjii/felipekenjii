@@ -1,63 +1,86 @@
-<h1 align="center">👋 Hi i'm Felipe Yoshike!</h1>
-
----
-
-## 📚 Sobre Mim
-
-Olá! Me chamo **Felipe Yoshike**, iniciei meus estudos em programação no início de **2025** com o objetivo de ingressar na área de **tecnologia**.  
-Atualmente estou focado em aprender o essencial para me tornar um **desenvolvedor back-end**, com o objetivo de evoluir para o desenvolvimento **Full-Stack**.
-
----
-
-## 🎓 Formação Acadêmica
-
-- **Análise e Desenvolvimento de Sistemas** – Fatec (2º semestre)  
-
----
-
-## 📌 O que estou estudando atualmente?
-
-- **Python** 
-- **C#, .NET** 
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Felipe-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-C#" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Felipe-.NET" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="Felipe-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<div align="center">
+  <img width="950" src="https://i.imgur.com/tivAdbr.jpeg" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<h1 align="center">👋 Hi, i'm Felipe Yoshike!</h1>
+
+<br>
+
+
+<h2 align="left">💻 Sobre mim</h2>
+
+<p align="left">
+  Olá! Me chamo Felipe Yoshike, iniciei meus estudos em programação no início de 2025 com o objetivo de ingressar na área de tecnologia.
+  Atualmente estou focado em aprender o essencial para me tornar um <strong>desenvolvedor back-end</strong>.
+</p>
+
+<br>
+
+<h2 align="left">🎓 Formação Acadêmica</h2>
+
+<p align="left">
+  - <strong>Análise e Desenvolvimento de Sistemas</strong> (2025 - 2027)
+</p>
+
+<br>
+
+<h2 align="left">📚 O que estou estudando</h2>
+
+<p align="left">
+  - <strong>Python</strong><br>
+  - <strong>C# e .NET</strong>
+</p>
+
+<br>
+
+<h2 align="left">🛠️ Tecnologias & Ferramentas</h2>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+</div>
+
+<br>
+
+<h2 align="left">🌐 Conecte-se comigo</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/felipeyoshike" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  <a href="mailto:kfelipekky@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+  <a href="https://instagram.com/felipekkenji" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" />
+  </a>
+</div>
+
+
+<br>
+
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
   <a href="https://github.com/felipekenjii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipekenjii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipekenjii&layout=compact&langs_count=6&theme=dracula"/>
-</div>
-
----
-
-## 🌐 Conecte-se Comigo!
-
-<div align="center"> 
-  <a href="https://instagram.com/felipekkenji" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipekenjii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipekenjii&layout=compact&langs_count=6&theme=dracula"/>
   </a>
-  <a href="mailto:kfelipekky@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/felipeyoshike" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
 </div>
 
 ---
