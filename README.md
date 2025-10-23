@@ -17,15 +17,15 @@
 <h2 align="left">🎓 Formação Acadêmica</h2>
 
 <p align="left">
-<li> <strong>Análise e Desenvolvimento de Sistemas</strong> (2025 - 2027)
+• <strong>Análise e Desenvolvimento de Sistemas</strong> (2025 - 2027)
 </p>
 
 
 <h2 align="left">📚 O que estou estudando</h2>
 
 <p align="left">
-<li> <strong>Python</strong><br>
-<li> <strong>C# e .NET</strong>
+• <strong>Python</strong><br>
+• <strong>C# e .NET</strong>
 </p>
 
 
